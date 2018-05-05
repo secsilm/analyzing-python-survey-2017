@@ -11,7 +11,11 @@
 - 验证一些常理
 - 发现一些现象
 
-本文基本只做到了前者，而且侧重于直接展现分析结果（大多数为图），具体的代码实现见 [analyzing-python-survey-2017.ipynb](https://nbviewer.jupyter.org/github/secsilm/analyzing-python-survey-2017/blob/master/analyzing-python-survey-2017.ipynb)，GitHub 上的内容见 [secsilm/analyzing-python-survey-2017](https://github.com/secsilm/analyzing-python-survey-2017)，包括问卷调查的内容（PDF）和调查结果原始数据（CSV）。
+本文基本只做到了前者，而且侧重于直接展现分析结果（大多数为图），具体的代码实现见：
+
+- Jupyter nbviewer：[analyzing-python-survey-2017.ipynb](https://nbviewer.jupyter.org/github/secsilm/analyzing-python-survey-2017/blob/master/analyzing-python-survey-2017.ipynb)
+- GitHub：[secsilm/analyzing-python-survey-2017](https://github.com/secsilm/analyzing-python-survey-2017)，包括问卷调查的内容（PDF）和调查结果原始数据（CSV）
+- Colab：[analyzing-python-survey-2017.ipynb - Colaboratory](https://colab.research.google.com/github/secsilm/analyzing-python-survey-2017/blob/master/analyzing-python-survey-2017.ipynb)
 
 ## 数据
 
